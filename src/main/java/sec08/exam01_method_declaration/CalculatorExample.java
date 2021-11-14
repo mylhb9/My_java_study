@@ -1,4 +1,4 @@
-package sec08.examp01_method_declaration;
+package sec08.exam01_method_declaration;
 
 public class CalculatorExample {
     public static void main(String[] args) {
